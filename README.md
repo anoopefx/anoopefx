@@ -10,27 +10,22 @@ I'm Anoop Jose.
 </p>
 
 ## Technologies and Tools:
-- AWS
-- C++
-- CSS3
-- Figma
-- Flutter
-- Git
-- HTML5
-- Linux
-- Photoshop
-- Python
+- Python/Django/Flask
+- AWS, Elastic Cache, Loadbalancing
+- Terraform
+- Ansible
+- Docker/Swarm, ECS
+- Linux - Debian, RedHat
+- Git, Git Actions
+- Figma, Photoshop
 
 ## GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anoopcjose&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anoopefx&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Electrifex Technologies Pvt. Ltd.
+- 🌱 I’m currently learning Philanthropy
+- 👯 I’m looking to collaborate on Social Networking
+- 💬 Ask me about "Only what I know"
+- 📫 How to reach me: Drop email
+- 😄 Pronouns: Anything that you respect
+- ⚡ Fun fact: It's simple!
