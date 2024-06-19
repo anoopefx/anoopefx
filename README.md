@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anoop Jose</h1>
+# Hi 👋, I'm Anoop Jose
 <h3 align="center">A passionate DevOps Engineer, Educationist, Counsellor from Cochin, India</h3>
 
 <p align="left"> 
