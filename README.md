@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=anoopefx&label=Profile%20views&color=0e75b6&style=flat" alt="anoopefx" /> 
 </p>
 
-<p align="left"> 
+<!--p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopefx" alt="anoopefx" />
   </a> 
-</p>
+</p-->
 
 <p align="left"> 
   <a href="https://twitter.com/anoopcjose" target="blank"><img src="https://img.shields.io/twitter/follow/anoopcjose?logo=twitter&style=for-the-badge" alt="anoopcjose" />
